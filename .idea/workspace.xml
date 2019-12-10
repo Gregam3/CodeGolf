@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f8e27b39-4d2c-4a89-aebd-019af96084fe" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1UnuiCc3MECb2SofZJ7WB4a7RKg" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="settings.editor.selected.configurable" value="Errors" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="CodeGolf" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SbtLocalSettings">
+    <option name="availableProjects">
+      <map>
+        <entry>
+          <key>
+            <ExternalProjectPojo>
+              <option name="name" value="CodeGolf" />
+              <option name="path" value="$PROJECT_DIR$" />
+            </ExternalProjectPojo>
+          </key>
+          <value>
+            <list>
+              <ExternalProjectPojo>
+                <option name="name" value="codegolf [file:/home/greg/IdeaProjects/CodeGolf/]" />
+                <option name="path" value="$PROJECT_DIR$" />
+              </ExternalProjectPojo>
+              <ExternalProjectPojo>
+                <option name="name" value="CodeGolf-build" />
+                <option name="path" value="$PROJECT_DIR$/project" />
+              </ExternalProjectPojo>
+            </list>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="modificationStamps">
+      <map>
+        <entry key="$PROJECT_DIR$" value="3152009608696" />
+        <entry key="$PROJECT_DIR$/build.sbt" value="3106920672" />
+        <entry key="$PROJECT_DIR$/project/build.properties" value="1134086237" />
+      </map>
+    </option>
+    <option name="projectSyncType">
+      <map>
+        <entry key="$PROJECT_DIR$" value="RE_IMPORT" />
+      </map>
+    </option>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f8e27b39-4d2c-4a89-aebd-019af96084fe" name="Default Changelist" comment="" />
+      <created>1576004804301</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1576004804301</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1784" y="198" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1576005215277">
+      <screen x="1366" y="0" width="1920" height="1080" />
+    </state>
+    <state x="1784" y="198" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.526.1366.741/1366.0.1920.1080@1366.0.1920.1080" timestamp="1576005215277" />
+    <state x="2104" y="456" width="434" height="173" key="#com.intellij.framework.addSupport.AddSupportForSingleFrameworkDialog" timestamp="1576004845291">
+      <screen x="1366" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2104" y="456" width="434" height="173" key="#com.intellij.framework.addSupport.AddSupportForSingleFrameworkDialog/0.526.1366.741/1366.0.1920.1080@1366.0.1920.1080" timestamp="1576004845291" />
+    <state width="1920" height="376" key="GridCell.Tab.0.bottom" timestamp="1576007203693">
+      <screen x="1366" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1920" height="376" key="GridCell.Tab.0.bottom/0.526.1366.741/1366.0.1920.1080@1366.0.1920.1080" timestamp="1576007203693" />
+    <state width="1920" height="376" key="GridCell.Tab.0.center" timestamp="1576007203693">
+      <screen x="1366" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1920" height="376" key="GridCell.Tab.0.center/0.526.1366.741/1366.0.1920.1080@1366.0.1920.1080" timestamp="1576007203693" />
+    <state width="1920" height="376" key="GridCell.Tab.0.left" timestamp="1576007203693">
+      <screen x="1366" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1920" height="376" key="GridCell.Tab.0.left/0.526.1366.741/1366.0.1920.1080@1366.0.1920.1080" timestamp="1576007203693" />
+    <state width="1920" height="376" key="GridCell.Tab.0.right" timestamp="1576007203693">
+      <screen x="1366" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1920" height="376" key="GridCell.Tab.0.right/0.526.1366.741/1366.0.1920.1080@1366.0.1920.1080" timestamp="1576007203693" />
+    <state width="1920" height="376" key="GridCell.Tab.1.bottom" timestamp="1576007203424">
+      <screen x="1366" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1920" height="376" key="GridCell.Tab.1.bottom/0.526.1366.741/1366.0.1920.1080@1366.0.1920.1080" timestamp="1576007203424" />
+    <state width="1920" height="376" key="GridCell.Tab.1.center" timestamp="1576007203424">
+      <screen x="1366" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1920" height="376" key="GridCell.Tab.1.center/0.526.1366.741/1366.0.1920.1080@1366.0.1920.1080" timestamp="1576007203424" />
+    <state width="1920" height="376" key="GridCell.Tab.1.left" timestamp="1576007203424">
+      <screen x="1366" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1920" height="376" key="GridCell.Tab.1.left/0.526.1366.741/1366.0.1920.1080@1366.0.1920.1080" timestamp="1576007203424" />
+    <state width="1920" height="376" key="GridCell.Tab.1.right" timestamp="1576007203424">
+      <screen x="1366" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1920" height="376" key="GridCell.Tab.1.right/0.526.1366.741/1366.0.1920.1080@1366.0.1920.1080" timestamp="1576007203424" />
+    <state x="1815" y="175" width="1022" height="734" key="SettingsEditor" timestamp="1576006891302">
+      <screen x="1366" y="0" width="1920" height="1080" />
+    </state>
+    <state x="1815" y="175" width="1022" height="734" key="SettingsEditor/0.526.1366.741/1366.0.1920.1080@1366.0.1920.1080" timestamp="1576006891302" />
+    <state x="1989" y="239" width="672" height="678" key="search.everywhere.popup" timestamp="1576006873477">
+      <screen x="1366" y="0" width="1920" height="1080" />
+    </state>
+    <state x="1989" y="239" width="672" height="678" key="search.everywhere.popup/0.526.1366.741/1366.0.1920.1080@1366.0.1920.1080" timestamp="1576006873477" />
+  </component>
+</project>
