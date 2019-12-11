@@ -23,7 +23,7 @@ object Main extends App {
    * https://codegolf.stackexchange.com/questions/58615/1-2-fizz-4-buzz/196919#196919
    */
   def fizzbuzz = {
-    1.to(100).map(n=>{print("\n"+n+(if(n%3==0)"fizz")+(if(n%5==0)"buzz"))})
+    1.to(100).map(n=>{print(s"\nn"+(if(n%3==0)"fizz")+(if(n%5==0)"buzz"))})
   }
 
   def divisors = {
